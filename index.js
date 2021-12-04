@@ -1,5 +1,9 @@
+//global requires for app
+
+//file system
 const fs = require("fs");
 const util = require("util");
+//npm package required for node modules
 const inquirer = require("inquirer");
 const generateReadme= require("./utils/generateReadMe");
 const writeFileAsync = util.promisify(fs.writeFile);
@@ -66,7 +70,7 @@ function promptUser() {
     ]);
 } 
 
-
+//function to intialize app
 async function init() {
     try {
         const answers = await promptUser();

@@ -1,8 +1,8 @@
-// generateReadme function fills README.md with content
+// generateReadme function fills ReadMe.md with content
 function generateReadme(answers) {
     return `
 # ${answers.projectTitle}
-  
+
 ## Description
     ${answers.description}
 ## Table of Contents:
@@ -11,8 +11,7 @@ function generateReadme(answers) {
 - [Usage]
 - [License]
 - [Contributing]
-- [User Tests]
-- [Github && Contact Info]
+- [Github&&Contact-Info]
 
 ## Installation
     ${answers.installation}
@@ -22,12 +21,11 @@ function generateReadme(answers) {
 
 ## License
 This application uses the ${answers.license} license. 
-
+![badge](https://img.shields.io/badge/license-${answers.license}-blue)
 ## Contributors
     ${answers.contributors}
 
-
-##GitHub: [${answers.username}](https://github.com/${answers.username})
+## GitHub&&Contact-Info: [${answers.username}](https://github.com/${answers.username})
 
  Contact me @: ${answers.email}
     `;
