@@ -6,12 +6,12 @@ function generateReadme(answers) {
 ## Description
     ${answers.description}
 ## Table of Contents:
-- [Description]
-- [Installation]
-- [Usage]
-- [License]
-- [Contributing]
-- [Github&&Contact-Info]
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributors](#Contributors)
+- [Github&&Contact-Info](#Github&&Contact-Info)
 
 ## Installation
     ${answers.installation}

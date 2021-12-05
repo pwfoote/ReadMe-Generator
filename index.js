@@ -70,7 +70,7 @@ function promptUser() {
     ]);
 } 
 
-//function to intialize app
+//function to initialize app
 async function init() {
     try {
         const answers = await promptUser();
