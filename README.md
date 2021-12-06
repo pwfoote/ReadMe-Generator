@@ -33,5 +33,5 @@ This application uses the MIT license.
 ## Demonstration Video Link
 https://drive.google.com/file/d/1GopPpQN92oGTzqdsyHKbQaGqEYO3X1b8/view?usp=sharing
 
-##Images
-![image] https://github.com/pwfoote/ReadMe-Generator/blob/main/assets/images/app%20gif.gif
+## Images
+https://github.com/pwfoote/ReadMe-Generator/blob/main/assets/images/app%20gif.gif
