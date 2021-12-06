@@ -52,6 +52,12 @@ function promptUser() {
 
         {
             type: "input",
+            name: "test",
+            message:"Are there any test that the User can perform?"
+        },
+            
+        {
+            type: "input",
             name: "contributors",
             message: "If any, list the contributors for this project:",
         },

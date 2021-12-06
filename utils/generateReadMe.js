@@ -10,6 +10,7 @@ function generateReadme(answers) {
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [License](#License)
+- [Testing](#testing)
 - [Contributors](#Contributors)
 - [Github&&Contact-Info](#Github&&Contact-Info)
 
@@ -17,11 +18,15 @@ function generateReadme(answers) {
     ${answers.installation}
 
 ## Usage
- ${answers.usage}
+    ${answers.usage}
 
 ## License
 This application uses the ${answers.license} license. 
 ![badge](https://img.shields.io/badge/license-${answers.license}-blue)
+
+## Testing
+    ${answers.test}
+
 ## Contributors
     ${answers.contributors}
 
