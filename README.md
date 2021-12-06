@@ -10,6 +10,7 @@
 - [License](#License)
 - [Contributors](#Contributors)
 - [Github&&Contact-Info](#Github&&Contact-Info)
+- [Images] (#Images)
 
 ## Installation
     User can clone this repository onto their PC or Laptop. Node.js and npm Node Modules are required to run this app. 
@@ -33,3 +34,4 @@ This application uses the MIT license.
 https://drive.google.com/file/d/1GopPpQN92oGTzqdsyHKbQaGqEYO3X1b8/view?usp=sharing
 
 ##Images
+![image] https://github.com/pwfoote/ReadMe-Generator/blob/main/assets/images/app%20gif.gif
