@@ -12,7 +12,9 @@
 - [Github&&Contact-Info](#Github&&Contact-Info)
 
 ## Installation
-    User can clone this repository onto their PC or Laptop. Node.js and npm Node Modules are required to run this app. When node.js is present, and npm node modules have been downloaded, User can enter <node index.js> in their terminal when in the app directory to initialize the app.
+    User can clone this repository onto their PC or Laptop. Node.js and npm Node Modules are required to run this app. 
+    When node.js is present, and npm node modules have been downloaded: 
+    User can enter <node index.js> in their terminal when in the app directory to initialize the app.
 
 ## Usage
  A very handy tool for developers, both experienced and learning.
